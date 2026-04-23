@@ -3,7 +3,7 @@
 
 ## Context
 
-You are joining a small, senior engineering team building an analytics and intelligence platform used by professionals working in security-sensitive, high-stakes environments. The platform ingests large volumes of news and social media data, applies quantitative analysis, and surfaces it through an interface that analysts rely on to make decisions.
+The platform ingests large volumes of news and social media data, applies quantitative analysis, and surfaces it through an interface that analysts rely on to make decisions.
 
 The frontend is data-intensive. It combines charts, tables, text, and filters — often on the same screen. The people using it are not casual users; they work under time pressure and need clear, reliable information.
 
